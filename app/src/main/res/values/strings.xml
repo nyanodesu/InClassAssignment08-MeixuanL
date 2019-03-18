@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">NewGeoQuiz</string>
+
+    <string name="australia">Australia</string>
+    <string name="africa">Africa</string>
+    <string name="america">America</string>
+    <string name="asia">Asia</string>
+    <string name="mideast">Desert</string>
+    <string name="oceans">Canada</string>
+
+    <string name="question_australia">The highest waterfall in Australia is in Queensland state.</string>
+    <string name="question_africa">There are 50 countries and one “non-self governing territory”, the Western Sahara, in Africa.</string>
+    <string name="question_america">The entire world population could fit inside Texas.</string>
+    <string name="question_asia"> China borders 14 countries, but has only one time zone.</string>
+    <string name="question_mideast">Saudi Arabia has rivers.</string>
+    <string name="question_oceans">The Pacific Ocean is the largest of the oceans covering around one third of the Earth surface.</string>
+
+    <string name="australia_true">true</string>
+
+
+
+</resources>
+
